@@ -6,6 +6,8 @@ Nesse projeto eu ensino a criar um relógio digital, usando somente HTML, CSS e 
 
 ###
 
+# TECNOLOGIAS USADAS
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
